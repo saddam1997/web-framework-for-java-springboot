@@ -1,0 +1,74 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application",
+      "type": "net.bndy.wf.config.ApplicationConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.admin-skin",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.allowed-origins",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.build-number",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.default-lang",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.default-user-avatar",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.mail-sender",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "defaultValue": false,
+      "name": "application.rename-upload-file",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.short-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "defaultValue": false,
+      "name": "application.upload-disabled",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.upload-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "net.bndy.wf.config.ApplicationConfig",
+      "name": "application.version",
+      "type": "java.lang.String"
+    }
+  ]
+}
